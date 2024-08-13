@@ -1,0 +1,6 @@
+﻿  BASPRG2 - Quiz 3 - BATUNGBACAL.cpp
+C:\Users\Franz Batungbacal\source\repos\Quiz 3 - BATUNGBACAL (BASPRG2)\Unit.h(167,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BASPRG2%20-%20Quiz%203%20-%20BATUNGBACAL.cpp')
+  
+C:\Users\Franz Batungbacal\source\repos\Quiz 3 - BATUNGBACAL (BASPRG2)\BASPRG2 - Quiz 3 - BATUNGBACAL.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Quiz 3 - BATUNGBACAL (BASPRG2).vcxproj -> C:\Users\Franz Batungbacal\source\repos\Quiz 3 - BATUNGBACAL (BASPRG2)\x64\Debug\Quiz 3 - BATUNGBACAL (BASPRG2).exe
